@@ -8,8 +8,10 @@
 - https://www.linkedin.com/in/ayarwind
 
 - https://www.instagram.com/ayarwind
-
+- https://www.threads.net/@ayarwind
+- [https://www.twitter.com/](https://twitter.com/ayarvind_6368)
 - email:  ayarvind9812@gmail.com
+  
      
 
 <!---
