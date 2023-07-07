@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayarvind
-- 👀 I’m interested in Software Engineering, Artificial Intelligence, Machine Learning, Web development, flutter....
-- 🌱 I’m currently learning  Node.js and DSA. 
+- 👀 I’m interested in Software Engineering, Data Science, Machine Learning, Web Development, Mobile App Development....
+- 🌱 I’m currently learning  DSA . 
 - 😎 Currently pursuing Btech in Computer Science And Engineering. 
-- 🙏 Cooking and Music is my hobby. 
+- 🙏 Love to listen to  Music  in my free time. 
 
 - 📫 How to reach me :
 - https://www.linkedin.com/in/ayarwind
